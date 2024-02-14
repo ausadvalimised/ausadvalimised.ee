@@ -4,6 +4,8 @@ theme: just-the-docs
 
 url: https://ausadvalimised.ee
 
+favicon_ico: "/favicon.svg"
+
 lang: et
 locale: et_EE
 
