@@ -32,7 +32,7 @@ just_the_docs:
     posts:
       name: Uudised
       nav_exclude: false
-      nav_fold: true
+      nav_fold: false
       search_exclude: false
 
 defaults:
