@@ -1,8 +1,48 @@
-title: MTÜ Ausad Valimised
-description: Demobkraatlikud valimised on vabad, tulemuste kujunemine aus ning vaadeldav, kuid valija hääl jääb tema enda teada.
+title: Ausad Valimised
+description: Demobkraatlikud valimised on vabad, tulemuste kujunemine aus ning vaadeldav — kuid valija hääl jääb ainult tema enda teada.
 theme: just-the-docs
 
 url: https://ausadvalimised.ee
 
+lang: et
+locale: et_EE
+
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Lähtekood: https://github.com/ausadvalimised/ausadvalimised.ee
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+collections:
+  posts:
+    permalink: "/:collection/:path/"
+    output: true
+  docs:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  collections:
+    docs:
+      name: Dokumendid
+      nav_exclude: true
+      nav_fold: false
+      search_exclude: false
+    posts:
+      name: Uudised
+      nav_exclude: false
+      nav_fold: true
+      search_exclude: false
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: default
