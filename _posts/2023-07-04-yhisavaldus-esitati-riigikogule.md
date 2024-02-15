@@ -1,13 +1,13 @@
 ---
 title: "Nõudmised e-hääletuse vaadeldavaks muutmiseks esitati Riigikogule"
-permalink: /yhisavaldus-esitati-riigikohule/
+permalink: /yhisavaldus-esitati-riigikogule/
 layout: post
 author: E-hääletuse vaatlejad 2011-2023 ja 1068 allkirjastajat
 image: /media/VVK-kettad2.jpeg
 nav_order: 99
 ---
 
-__E-hääletuse vaatlejate poolt 2023. aasta riigikogu valimiste järel koostatud ja 31. märtsil avalikustatud nõudmised e-hääletuse vaadeldavuse tagamiseks esitati 4. juulil kollektiivse märgukirjana Riigikogule. Märgukiri avati allkirjastamiseks 17. mail ning kogus kuu ajaga riigikogule esitamiseks vajalikud 1000 allkirja, allkirjastamine lõpetati 3. juulil, kui allkirju oli kogunenud 1068.__
+__E-hääletuse vaatlejate poolt 2023. aasta riigikogu valimiste järel koostatud ja 31. märtsil avalikustatud nõudmised e-hääletuse vaadeldavuse tagamiseks esitati 4. juulil kollektiivse märgukirjana Riigikogule. Märgukiri avati allkirjastamiseks 17. mail ning kogus kuu ajaga Riigikogule esitamiseks vajalikud 1000 allkirja, allkirjastamine lõpetati 3. juulil, kui allkirju oli kogunenud 1068.__
 
 Märgukirja koostamisel osales kümmekond eri kogemuse ja taustaga e-hääletuse vaatlejat ajavahemikust 2011-2023, sh majandusministeeriumi 2019. aasta e-hääletuse töörühma liikmed Märt Põder ja Heldur-Valdek Seeder, 2023. aastal moodustatud ja e-hääletuse küsimusi uurima asuva Teaduste Akadeemia küberturvalisuse komisjoni liige Ivo Kubjas jt.
 
@@ -21,9 +21,7 @@ Valimisvaatlejate viis nõudmist:
 4. Vaidlustamistähtajad peavad arvestama e-hääletuse eripäraga
 5. Teabele, koodile jm materjalidele tuleb tagada ajapädev ligipääs
 
-Avaldus sai alguse 28. märtsil reaktsioonina riigikohtu otsustele ning
-nõudmised arutati läbi vaatlejate ja kaasamõtlejate omavahelise
-võrgusuhtluse käigus, algse teksti koostamisel ning kokkuleppimisel osalesid Märt Põder, Sulev Švilponis, Meelis Kerbo, Meelis Kaldalu, Virgo Kruve, Heldur-Valdek Seeder, Martti Randma, Ivo Kubjas, Kalevi Koplik, Günter Kits, Lauri Võsandi jt.
+Avaldus sai alguse 28. märtsil reaktsioonina riigikohtu otsustele ning nõudmised arutati läbi vaatlejate ja kaasamõtlejate omavahelise võrgusuhtluse käigus, algse teksti koostamisel ning kokkuleppimisel osalesid Märt Põder, Sulev Švilponis, Meelis Kerbo, Meelis Kaldalu, Virgo Kruve, Heldur-Valdek Seeder, Martti Randma, Ivo Kubjas, Kalevi Koplik, Günter Kits, Lauri Võsandi jt.
 
 ## Viited
 
