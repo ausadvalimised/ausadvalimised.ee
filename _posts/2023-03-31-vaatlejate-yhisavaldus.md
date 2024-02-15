@@ -13,7 +13,7 @@ Avaldus sai alguse 28. märtsil reaktsioonina Riigikohtu otsustele ning nõudmis
 
 "Kaebused valdavalt tõrjutakse, viidates kaebeõiguse puudumisele või kaebetähtaja ületamisele, isegi kui küsimus on sekundites," ütleb 2015. aastast e-hääletuse vaatlemisel osalev Sulev Švilponis: "E-hääletusele heidan ette puudulikku vaadeldavust, mis jätab lahti võimaluse pettuseks, muret tekitav on korraldaja toetumine pooltõdedele või lausa valedele, millega välditakse kaebuste sisulist lahendamist."
 
-"Elektroonilise hääletuse vaatlejate koolitus oli ainus toiming, mida hääletuse läbiviimise juures ei vaidlustatud," ütleb enam kui dekaadi pikkuse kogemusega vaatleja Virgo Kruve: "Kui 2011. aastal vastatai vaatlejate küsimustele selgitustega, kuid tarkvara on siiani avalikustatud vaid osaliselt, valimisrakendus on suletud lähtekoodiga ja auditeerimata. Kahetsusväärselt on elektrooniline hääletus kujundatud uskumise küsimuseks."
+"Elektroonilise hääletuse vaatlejate koolitus oli ainus toiming, mida hääletuse läbiviimise juures ei vaidlustatud," ütleb enam kui dekaadi pikkuse kogemusega vaatleja Virgo Kruve: "Kui 2011. aastal vastati vaatlejate küsimustele selgitustega, siis praegu ei saa isegi teada, kas prooviläbimise tarkvara on sama, mida kasutatakse valimistel, tarkvara on jätkuvalt avalikustatud vaid osaliselt, valimisrakendus on suletud lähtekoodiga ja auditeerimata. Kahetsusväärselt on elektrooniline hääletus kujundatud uskumise küsimuseks."
 
 E-hääletuse vaatlejad nõuavad oma avalduses:
 
