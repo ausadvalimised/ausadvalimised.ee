@@ -1,6 +1,6 @@
 .site-title-text {
   padding-left: 4rem;
-  color: $grey-dk-100;
+  color: $body-text-color;
 }
 
 .site-title:hover {
@@ -10,5 +10,5 @@
     rgba($feedback-color, 0.8) 80%,
     rgba($feedback-color, 0) 100%
   );
-  color: $grey-dk-200;
+  color: $body-heading-color;
 }
