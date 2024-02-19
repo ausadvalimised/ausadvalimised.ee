@@ -1,5 +1,5 @@
 ---
-title: Viis ettepanekut e-hääletuse vaatlemiseks
+title: Viis ettepanekut e-hääletuse vaadeldavuseks
 description: Vaatlejate ühisavaldus 2023. aasta Riigikogu valimiste järel
 image: /media/VVK-kettad2.jpeg
 layout: default
