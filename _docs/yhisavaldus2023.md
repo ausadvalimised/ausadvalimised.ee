@@ -84,6 +84,7 @@ _E-hääletuse vaatlejate pöördumine on avaldatud 31. märtsil 2023 veebiaadre
 * [Arutelu põhiseaduskomisjonis, pöördumise tagasilükkamine](https://www.riigikogu.ee/tegevus/dokumendiregister/dokument/cbc8d54f-449e-4131-b014-8f0a97801b94) (11.01.2024 13.30-13.38, st u 7min)
 * [Tagasilükkamise põhjendus](https://www.riigikogu.ee/tegevus/dokumendiregister/dokument/b3ae7f10-41e0-4795-8d57-9b9019fd6204) (registreeritud 18.01.2024, allkirjastatud/saabunud 29.01.2024)
 * [Ettepanek saata pöördumine arutamiseks tagasi komisjoni](https://infoaed.ee/rk_juhatusele_7.02.2024.pdf) (7.02.2024)
+* [Riigikogu juhatuse keeldumine komisjoni tagasi saatmisest](https://www.riigikogu.ee/tegevus/dokumendiregister/dokument/d3161073-4341-4ad9-a57b-761f89fc8d56) (20.02.2024)
 
 ## Alla kirjutanud
 
