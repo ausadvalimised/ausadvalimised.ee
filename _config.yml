@@ -7,15 +7,21 @@ url: https://ausadvalimised.ee
 logo: "/logo.svg"
 favicon_ico: "/logo.svg"
 
-lang: et
-locale: et_EE
+#lang: et
+#locale: et_EE
 
-aux_links:
-  Lähtekood: https://github.com/ausadvalimised/ausadvalimised.ee
+languages: ["et", "en"]
+default_lang: "et"
+exclude_from_localization: ["javascript", "media", "css", "public"]
+lang_from_path: true
+
+#aux_links:
+#  Lähtekood: https://github.com/ausadvalimised/ausadvalimised.ee
 
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-polyglot
 
 collections:
   posts:
@@ -28,12 +34,12 @@ collections:
 just_the_docs:
   collections:
     posts:
-      name: Uudised
+      name: site_news
       nav_exclude: false
       nav_fold: false
       search_exclude: false
     docs:
-      name: Dokumendid
+      name: site_docs
       nav_exclude: false
       nav_fold: false
       search_exclude: false

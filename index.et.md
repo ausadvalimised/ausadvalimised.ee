@@ -2,6 +2,8 @@
 title: Kes me oleme?
 description: Meie eesmärk on vabad ja demokraatlikud valimised, mille tulemuste kujunemine on aus ning vaadeldav — kuid valija hääl jääb ainult tema enda teada. Töötame selle nimel, et valimised oleks ausad ja pettused välistatud.
 image: /media/VVK-kettad2.jpeg
+lang: et
+permalink: /
 layout: home
 ---
 

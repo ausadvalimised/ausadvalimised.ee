@@ -1,5 +1,5 @@
 {% if site.logo %}
-    <div class="site-logo" role="img" aria-label="{{ site.title }}"><div class="site-title site-title-text">{{ site.title }}</div></div>
+    <div class="site-logo" role="img" aria-label="{{ site.data.i18n.site_title }}"><div class="site-title site-title-text">{{ site.data.i18n.site_title }}</div></div>
 {% else %}
-  {{ site.title }}
+  {{ site.data.i18n.site_title }}
 {% endif %}

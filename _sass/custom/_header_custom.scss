@@ -1,0 +1,24 @@
+.lang-nav {
+  height: 100%;
+  overflow-x: auto;
+  @include fs-3;
+
+  .lang-nav-list {
+    display: flex;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+  }
+
+  .lang-nav-list-item {
+    display: inline-block;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+  }
+
+  @include mq(md) {
+    padding-right: $gutter-spacing-sm;
+  }
+}

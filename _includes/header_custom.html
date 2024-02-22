@@ -1,0 +1,15 @@
+<nav aria-label="Language" class="lang-nav">
+  <ul class="lang-nav-list">
+    {% for language in site.languages %}
+      {% if language != site.active_lang %}
+      <li class="lang-nav-list-item">
+        <a
+          class="site-button"
+          href="{% if language == site.default_lang %} {{site.baseurl}}{{page.url}} {% else %} {{site.baseurl}}/{{ language }}{{page.url}} {% endif %}"
+          >{{ site.data[language].i18n.lang_label }}</a
+        >
+      </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</nav>

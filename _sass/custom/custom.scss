@@ -1,3 +1,9 @@
+@import "./header_custom";
+
+.aux-nav {
+  @include fs-3;
+}
+
 .site-title-text {
   padding-left: 3.5rem;
   color: $body-text-color;
