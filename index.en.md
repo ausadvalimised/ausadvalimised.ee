@@ -5,6 +5,7 @@ image: /media/VVK-kettad2.jpeg
 lang: en
 permalink: /
 layout: home
+last_modified_at: 2024-02-23
 ---
 
 The objective of [Fair Elections Estonia](https://ariregister.rik.ee/est/company/80339095/) is to ensure free and democratic elections in the Republic of Estonia, for which the ascertaining of the results is fair and observable, while keeping content of the ballot private to each voter.
