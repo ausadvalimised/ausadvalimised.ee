@@ -7,8 +7,8 @@ url: https://ausadvalimised.ee
 logo: "/logo.svg"
 favicon_ico: "/logo.svg"
 
-#lang: et
-#locale: et_EE
+lang: et
+locale: et_EE
 
 languages: ["et", "en"]
 default_lang: "et"
@@ -22,6 +22,9 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-polyglot
+
+sass:
+    sourcemap: never
 
 collections:
   posts:
