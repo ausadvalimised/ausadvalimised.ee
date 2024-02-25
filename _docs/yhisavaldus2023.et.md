@@ -5,7 +5,7 @@ author: E-hääletuse vaatlejad 2011-2023
 image: /media/VVK-kettad2.jpeg
 layout: default
 lang: et
-permalink: /docs/yhisavaldus2023
+permalink: /docs/yhisavaldus2023/
 last_modified_at: 2024-02-24
 ---
 

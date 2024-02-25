@@ -5,7 +5,7 @@ author: Observers of e-voting 2011-2023
 image: /media/VVK-kettad2.jpeg
 layout: default
 lang: en
-permalink: /docs/yhisavaldus2023
+permalink: /docs/yhisavaldus2023/
 last_modified_at: 2024-02-24
 ---
 
