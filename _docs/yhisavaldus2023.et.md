@@ -1,8 +1,12 @@
 ---
 title: Viis ettepanekut e-hääletuse vaadeldavuseks
 description: Vaatlejate ühisavaldus 2023. aasta Riigikogu valimiste järel
+author: E-hääletuse vaatlejad 2011-2023
 image: /media/VVK-kettad2.jpeg
 layout: default
+lang: et
+permalink: /docs/yhisavaldus2023
+last_modified_at: 2024-02-24
 ---
 
 # Nõuame vaadeldavat e-hääletust
@@ -31,20 +35,13 @@ E-hääletust korraldavate ja järele valvavate instantside ühekülgse ja ülel
 
 ### 2. Vaadelda seadmeid ja andmevooge kogu e-hääletuse ulatuses
 
-E-hääletuse usaldusväärsuse tagamiseks peab olema võimalik vaadelda
-hääletusprotsesse nende esimesest sammust kuni viimaseni, st alates
-valijate nimekirjade koostamisest, riistvara ettevalmistamisest ja
-tarkvara kompileerimisest ja paigaldamisest kuni selle käivitamise ja
-kasutajatele avamiseni.
+E-hääletuse usaldusväärsuse tagamiseks peab olema võimalik vaadelda hääletusprotsesse nende esimesest sammust kuni viimaseni, st alates valijate nimekirjade koostamisest, riistvara ettevalmistamisest ja tarkvara kompileerimisest ja paigaldamisest kuni selle käivitamise ja kasutajatele avamiseni.
 
 Analoogia pabersedelitega hääletamisega ei kehti e-hääletuse puhul täielikult, kuid valija tegevus virtuaalses jaoskonnas algab hääletussedeli kättesaamisest autentimisega valijarakenduses, jätkub hääle sisestamisega kogumisteenusesse kui virtuaalsesse valimiskasti ning vaatleja rolli sisenemisega kontrollrakenduse kasutamisel.
 
 Vaatlejatel peab olema täiel määral võimalik vaadelda protsesse virtuaalses jaoskonnas, sh valimiskasti ja selle seisundite muutumist, üleminekut töötlemis- ja lugemisfaasi ning lõpuks tulemuste kokkulugemist. Kuni see on võimaldatud vaid osaliselt, ei saa pidada e-hääletust vaadeldavaks.
 
-E-hääletus peab olema vaadeldav andmete tasemel kõigile vaatlejatele
-ning selleks tuleb vaatlemise tähendus ümber mõtestada seadmete ja
-väljundite vaatlemiselt andmevoogude sisemisele vaatlemisele, mis
-võimaldaks vaadelda protsesse e-hääletuse algusest kuni lõpuni. Andmevoo vaatlemist ei tohi piirata palgalise andmeaudiitori rolliga.
+E-hääletus peab olema vaadeldav andmete tasemel kõigile vaatlejatele ning selleks tuleb vaatlemise tähendus ümber mõtestada seadmete ja väljundite vaatlemiselt andmevoogude sisemisele vaatlemisele, mis võimaldaks vaadelda protsesse e-hääletuse algusest kuni lõpuni. Andmevoo vaatlemist ei tohi piirata palgalise andmeaudiitori rolliga.
 
 ### 3. Infotehnoloogilisi tegevusi käsitleda toimingutena
 
@@ -74,7 +71,7 @@ Vaatlejatele peab testperioodil, prooviläbimistel ja valimiste ajal tagama või
 
 Demokraatlike protsesside usaldusväärsus sõltub kõigi osapoolte ühisest pingutusest ning kui vaatlejatele ei tagata võimalust täita oma põhiseaduslikku rolli valimiste läbiviimisel, süvendab see kahtlusi valimiste usaldusväärsuses. On selge, et e-hääletus sisulise vaatlemise võimaluseta pole jätkusuutlik.
 
-_E-hääletuse vaatlejate pöördumine on avaldatud 31. märtsil 2023 veebiaadressil [vaatlejad.github.io](https://vaatlejad.github.io/) ja edastatud valimiskomisjonile ning [õiguskantslerile](https://github.com/vaatlejad/vaatlejad.github.io/blob/main/docs/6iguskantsleri_vastus-4.04.2023.pdf), informatsiooniks ka riigikohtule. Toimetatud versioon esitati 4. juulil 2023 [läbi rahvaalgatusportaali](https://rahvaalgatus.ee/initiatives/7b9ecdfa-3b56-45d4-a0f8-a52ced3e5803/#initiative-header) riigikogule ning 25. septembril 2023 [hakkab seda arutama põhiseaduskomisjon](https://rahvaalgatus.ee/initiatives/7b9ecdfa-3b56-45d4-a0f8-a52ced3e5803/#events)._
+_E-hääletuse vaatlejate pöördumine on avaldatud 31. märtsil 2023 veebiaadressil [vaatlejad.github.io](https://vaatlejad.github.io/) ja edastatud valimiskomisjonile ning [õiguskantslerile](https://github.com/vaatlejad/vaatlejad.github.io/blob/main/docs/6iguskantsleri_vastus-4.04.2023.pdf), informatsiooniks ka riigikohtule. Toimetatud versioon esitati 4. juulil 2023 [läbi rahvaalgatusportaali](https://rahvaalgatus.ee/initiatives/7b9ecdfa-3b56-45d4-a0f8-a52ced3e5803/#initiative-header) riigikogule ning 25. septembril 2023 [hakkab seda arutama põhiseaduskomisjon](https://www.riigikogu.ee/tutvustus-ja-ajalugu/raakige-kaasa/esitage-kollektiivne-poordumine/riigikogule-esitatud-kollektiivsed-poordumised/kollektiivse-poordumise-detailvaade/72565b88-d56a-4e33-a4fb-3d8116b1bfc0)._
 
 ## Menetluskäik
 

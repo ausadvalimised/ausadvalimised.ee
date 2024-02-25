@@ -9,18 +9,18 @@ layout:
       {% if node.layout %}
       <url>
             <loc>{%- if lang == site.default_lang -%}{{ node.url | absolute_url }}{%- else -%}{{ node.url | prepend: lang | prepend: '/' | absolute_url }}{%- endif -%}</loc>
-            <lastmod>{%- if node.last_modified_at -%}{{ node.last_modified_at | date_to_xmlschema }}{%- else -%}{{ node.date | date_to_xmlschema}}{%- endif -%}</lastmod>
+            <lastmod>{%- if node.last_modified_at -%}{{ node.last_modified_at | date_to_xmlschema }}{%- else -%}{{ node.date | date_to_xmlschema }}{%- endif -%}</lastmod>
       </url>
       {%- endif -%}
     {%- endunless -%}
   {%- endfor -%}
-{%- endfor -%}
-{%- for collection in site.collections -%}
-  {% for node in site[collection.label] %}
+  {%- for collection in site.collections -%}
+    {% for node in site[collection.label] %}
       <url>
             <loc>{%- if lang == site.default_lang -%}{{ node.url | absolute_url }}{%- else -%}{{ node.url | prepend: lang | prepend: '/' | absolute_url }}{%- endif -%}</loc>
-            <lastmod>{%- if node.last_modified_at -%}{{ node.last_modified_at | date_to_xmlschema }}{%- else -%}{{ node.date | date_to_xmlschema}}{%- endif -%}</lastmod>
+            <lastmod>{%- if node.last_modified_at -%}{{ node.last_modified_at | date_to_xmlschema }}{%- else -%}{{ node.date | date_to_xmlschema }}{%- endif -%}</lastmod>
       </url>
-  {%- endfor -%}
-{% endfor %}
+    {%- endfor -%}
+  {% endfor %}
+{%- endfor -%}
 </urlset>

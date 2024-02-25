@@ -12,7 +12,7 @@ favicon_ico: "/logo.svg"
 
 languages: ["et", "en"]
 default_lang: "et"
-exclude_from_localization: ["javascript", "media", "css", "public"]
+exclude_from_localization: ["javascript", "media", "css", "public", "sitemap.xml"]
 lang_from_path: true
 
 #aux_links:
@@ -45,6 +45,10 @@ just_the_docs:
       search_exclude: false
 
 defaults:
+  - scope:
+      path: ""
+    values:
+      author: Ausad Valimised
   - scope:
       path: ""
       type: posts
