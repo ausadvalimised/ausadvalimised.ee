@@ -21,6 +21,6 @@ layout:
             <lastmod>{%- if node.last_modified_at -%}{{ node.last_modified_at | date_to_xmlschema }}{%- else -%}{{ node.date | date_to_xmlschema }}{%- endif -%}</lastmod>
       </url>
     {%- endfor -%}
-  {% endfor %}
-{%- endfor -%}
+  {%- endfor -%}
+{% endfor %}
 </urlset>

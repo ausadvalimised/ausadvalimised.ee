@@ -79,7 +79,7 @@ _The joint statement of e-voting observers was published on 31st of March 2023 a
 * [Presentation at the Constitutional Committee, postponing of the decision](https://www.riigikogu.ee/tegevus/dokumendiregister/dokument/337e880d-426b-4432-a8e3-f2869d40f11a) (25.09.2023)
 * [Indirectly related field session at the Electoral Office](https://www.riigikogu.ee/tegevus/dokumendiregister/dokument/a580c458-c4cd-4451-b66f-d4c377d34a34) (16.10.2023)
 * [Discussion at the Constitutional Committee, rejection](https://www.riigikogu.ee/tegevus/dokumendiregister/dokument/cbc8d54f-449e-4131-b014-8f0a97801b94) (11.01.2024 13.30-13.38, ca 7min)
-* [Letter of rejection, missing legally required reasoning](https://www.riigikogu.ee/tegevus/dokumendiregister/dokument/b3ae7f10-41e0-4795-8d57-9b9019fd6204) (registered 18.01.2024, signed/received 29.01.2024)
+* [Letter of rejection w/o legally required reasoning](https://www.riigikogu.ee/tegevus/dokumendiregister/dokument/b3ae7f10-41e0-4795-8d57-9b9019fd6204) (registered 18.01.2024, signed/received 29.01.2024)
 * [Proposal to send the petition back to the committee for discussion](https://infoaed.ee/rk_juhatusele_7.02.2024.pdf) (7.02.2024)
 * [Refusal of the Board of the Riigikogu to rewind the process](https://www.riigikogu.ee/tegevus/dokumendiregister/dokument/d3161073-4341-4ad9-a57b-761f89fc8d56) (20.02.2024)
 
