@@ -71,8 +71,6 @@ During the test period, public test runs and elections, observers must be provid
 
 The credibility of democratic processes depends on the joint efforts of all parties, and if observers are not guaranteed the opportunity to fulfill their constitutional role in elections, it deepens doubts about the trustworthiness of the elections. It is clear that e-voting without meaningful and substantial observability is not sustainable.
 
-_The joint statement of e-voting observers was published on 31st of March 2023 at the web address [vaatlejad.github.io](https://vaatlejad.github.io/) and forwarded to the electoral committee and [the Chancellor of Justice](https://github.com/vaatlejad/vaatlejad.github.io/blob/main/docs/6iguskantsleri_vastus-4.04.2023.pdf), for information also to the Supreme Court. The edited version was submitted to the parliament on 4th of July 2023 [through the The Citizen Initiative Portal](https://rahvaalgatus.ee/initiatives/920-e-h%C3%A4%C3%A4letus-tuleb-muuta-vaadeldavaks?language=en#initiative-events), and [the Constitutional Committee of the parliament will start to discuss it](https://www.riigikogu.ee/tutvustus-ja-ajalugu/raakige-kaasa/esitage-kollektiivne-poordumine/riigikogule-esitatud-kollektiivsed-poordumised/kollektiivse-poordumise-detailvaade/72565b88-d56a-4e33-a4fb-3d8116b1bfc0) on 25th of September 2023._
-
 ## Timeline of the procedures
 
 * [Accepting of the petition and referral to the Constitutional Committee](https://www.riigikogu.ee/tegevus/dokumendiregister/dokument/690eb998-5492-472e-b32a-05bae51e6fa2) (13.07.2023)
@@ -98,8 +96,10 @@ _The joint statement of e-voting observers was published on 31st of March 2023 a
 9. Kalevi Koplik. Observer from 2021.
 10. ...
 11. Günter Kits. ICT system architect and expert.
-12. [Lauri Võsandi](https://www.linkedin.com/in/laurivosandi/)
+12. Lauri Võsandi
 
 /.../
 
-_Collective proposal "[E-voting has to be made observable!](https://rahvaalgatus.ee/initiatives/7b9ecdfa-3b56-45d4-a0f8-a52ced3e5803/#initiative-header)" ([in English](https://rahvaalgatus.ee/initiatives/7b9ecdfa-3b56-45d4-a0f8-a52ced3e5803?language=en#initiative-header)) gathered **1068 signatures** at the petition portal and was submitted to Riigikogu on 4th of July 2023._
+----
+
+_The joint statement of e-voting observers was published on 31st of March 2023 at the web address [vaatlejad.github.io](https://vaatlejad.github.io/) and forwarded to the National Electoral Committee and [the Chancellor of Justice](https://github.com/vaatlejad/vaatlejad.github.io/blob/main/docs/6iguskantsleri_vastus-4.04.2023.pdf), for information also to the Supreme Court. The edited version "[E-voting has to be made observable!](https://rahvaalgatus.ee/initiatives/7b9ecdfa-3b56-45d4-a0f8-a52ced3e5803?language=en#initiative-header)" gathered **1068 signatures** at the petition portal, was submitted to the parliament on 4th of July 2023 and [the Constitutional Committee of the parliament will start to discuss it](https://www.riigikogu.ee/tutvustus-ja-ajalugu/raakige-kaasa/esitage-kollektiivne-poordumine/riigikogule-esitatud-kollektiivsed-poordumised/kollektiivse-poordumise-detailvaade/72565b88-d56a-4e33-a4fb-3d8116b1bfc0) on 25th of September 2023._
