@@ -96,7 +96,7 @@ Demokraatlike protsesside usaldusväärsus sõltub kõigi osapoolte ühisest pin
 9. Kalevi Koplik. Vaatleja alates 2021.
 10. ...
 11. Günter Kits. IKT süsteemiarhitekt ja ekspert.
-12. [Lauri Võsandi](https://www.linkedin.com/in/laurivosandi/)
+12. Lauri Võsandi
 
 /.../
 
