@@ -17,7 +17,7 @@ Estonian democracy relies on free and secret ballot. The tally of the votes is o
 
 * We acknowledge the political parties and associations that sent their representatives to observe the e-voting processes. Without observers from competing parties, the trustworthiness of the procedures is not ensured sufficiently.
 
-* We condemn the media pressure on the Electoral Comittee and the Supreme Court hurry up processing of the complaints and the determination of election results. Evaluation of the root processes of democracy should not be superficial.
+* We condemn the media pressure on the Electoral Comittee and the Supreme Court to hurry up processing of the complaints and the announcement of the election results. Evaluation of the root processes of democracy should not be superficial.
 
 * We demand providing substantial observability of e-voting. Calls to refrain from criticisms of the new voting method and attempts to prevent public tally of election results undermine the principles of democratic elections.
 
