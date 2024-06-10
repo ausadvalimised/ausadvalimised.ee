@@ -1,6 +1,6 @@
 ---
 title: "E-hääletuse lävepakuküsitlus jääb avatuks ametlike valimistulemuste väljakuulutamiseni"
-permalink: /exitpool-jääb-avatuks/
+permalink: /exitpoll-jääb-avatuks/
 layout: post
 author: MTÜ Ausad Valimised
 image: /media/angels_color.png
