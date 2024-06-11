@@ -7,7 +7,7 @@ image: /media/angels_color.png
 nav_order: 95
 ---
 
-__Europarlamendi valimiste e-hääletuse kõrval saab esimest korda ajaloos registreerida hääle ka virtuaalsel lävepakuküsitlusel. Küsitlus simuleerib e-hääletuse protseduure ja nende läbiviimise eest vastutav valimiskomisjon pikendas häälte vastuvõtmist kuni valimistulemuste lõpliku väljakuulutamiseni. Huvilised saavad osalemiseks vajaliku hääletustunnuse ID-kaardi alusel aadressil [exitpoll.infoaed.ee](https://exitpoll.infoaed.ee).__
+__Europarlamendi valimiste e-hääletuse kõrval saab esimest korda ajaloos registreerida hääle ka virtuaalsel lävepakuküsitlusel. Küsitlus simuleerib e-hääletuse protseduure ning nende eest vastutav valimiskomisjon pikendas häälte vastuvõtmist kuni valimistulemuste lõpliku väljakuulutamiseni. Huvilised saavad osalemiseks vajaliku hääletustunnuse ID-kaardi alusel aadressil [exitpoll.infoaed.ee](https://exitpoll.infoaed.ee).__
 
 "Otsustasime pikendada eksperimendi kestust ja hoida süsteemi avatuna, et kõik huvilised võiks järgneva paari nädala jooksul saada kogemuse meie simuleeritud e-hääletusega," ütles projektijuht Märt Põder. "Nii saame korraldajatena tagasisidet, mis aitab meil võtta lävepakuküsitluse ette järgmine kord juba suuremalt, aga alternatiivse e-hääletuse proovimine võiks olla valgustav kogemus ka osalejate endi jaoks ning aidata edasi debatte e-hääletuse tuleviku üle."
 
