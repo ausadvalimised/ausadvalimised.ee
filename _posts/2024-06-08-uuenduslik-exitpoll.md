@@ -1,5 +1,5 @@
 ---
-title: "E-hääletuse lävepakuküsitlusel saab proovida kõigile läbipaistvat digitaalset valimiskasti"
+title: "E-hääletuse lävepakuküsitlusel saab proovida läbipaistvat digitaalset valimiskasti"
 permalink: /uuenduslik-exitpoll/
 layout: post
 author: MTÜ Ausad Valimised
