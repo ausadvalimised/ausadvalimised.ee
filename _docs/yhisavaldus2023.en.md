@@ -80,6 +80,9 @@ The credibility of democratic processes depends on the joint efforts of all part
 * [Letter of rejection w/o legally required reasoning](https://www.riigikogu.ee/tegevus/dokumendiregister/dokument/b3ae7f10-41e0-4795-8d57-9b9019fd6204) (registered 18.01.2024, received 29.01.2024)
 * [Proposal to send the petition back to the committee for discussion](https://infoaed.ee/rk_juhatusele_7.02.2024.pdf) (7.02.2024)
 * [Refusal of the Board of the Riigikogu to rewind the process](https://www.riigikogu.ee/tegevus/dokumendiregister/dokument/d3161073-4341-4ad9-a57b-761f89fc8d56) (20.02.2024)
+* [Proposal to include petition in processing 344SE](https://www.riigikogu.ee/download/4fde6f3f-4417-4089-aa66-dfe04c0f4453) (12.04.2024)
+* [Discussion of ignoring the proposals in plenary](https://stenogrammid.riigikogu.ee/202404171400#SND-31172362) (17.04.2024)
+* [Refusal, referring to previous non-reasoning](https://www.riigikogu.ee/download/da99c38e-0262-4695-ab36-3966106b0abc) (2.05.2024)
 
 ## Singatories
 

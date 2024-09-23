@@ -82,7 +82,7 @@ Demokraatlike protsesside usaldusväärsus sõltub kõigi osapoolte ühisest pin
 * [Riigikogu juhatuse keeldumine komisjoni tagasi saatmisest](https://www.riigikogu.ee/tegevus/dokumendiregister/dokument/d3161073-4341-4ad9-a57b-761f89fc8d56) (20.02.2024)
 * [Ettepanek arvestada ettepanekuid 344SE menetluse raames](https://www.riigikogu.ee/download/4fde6f3f-4417-4089-aa66-dfe04c0f4453) (12.04.2024)
 * [Ettepanekute eiramise tõstatamine 344SE teisel lugemisel](https://stenogrammid.riigikogu.ee/202404171400#SND-31172362) (17.04.2024)
-* [Keeldumine ja viitamine tagasi põhjenduseta vastuskirjale](https://www.riigikogu.ee/download/da99c38e-0262-4695-ab36-3966106b0abc) (2.05.2024)
+* [Keeldumine ja uuesti viitamine põhjenduseta vastuskirjale](https://www.riigikogu.ee/download/da99c38e-0262-4695-ab36-3966106b0abc) (2.05.2024)
 
 ## Alla kirjutanud
 
