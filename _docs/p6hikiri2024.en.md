@@ -2,10 +2,13 @@
 title: Statutes of the organisation
 description: Our goal is free and democratic elections, in which the ascertaining of the results is fair and observable, while keeping the content of the vote private. We strive to ensure fair elections without possibilities for manipulation.
 image: /media/VVK-kettad2.jpeg
+author: Fair Elections Estonia
 layout: default
 lang: en
 permalink: /docs/p6hikiri/
 last_modified_at: 2024-06-23
+seo:
+  name: "Fair Elections Estonia"
 ---
 
 # Statutes of Fair Elections Estonia

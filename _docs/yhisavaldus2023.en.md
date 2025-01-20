@@ -7,6 +7,8 @@ layout: default
 lang: en
 permalink: /docs/yhisavaldus2023/
 last_modified_at: 2024-02-26
+seo:
+  name: "Fair Elections Estonia"
 ---
 
 # Demand for observable e-voting
