@@ -7,6 +7,7 @@ layout: default
 lang: en
 permalink: /docs/yhisavaldus2023/
 last_modified_at: 2024-02-26
+nav_order: 100
 ---
 
 # Demand for observable e-voting

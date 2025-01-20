@@ -7,6 +7,7 @@ layout: default
 lang: et
 permalink: /docs/yhisavaldus2023/
 last_modified_at: 2024-02-24
+nav_order: 100
 ---
 
 # Nõuame vaadeldavat e-hääletust
