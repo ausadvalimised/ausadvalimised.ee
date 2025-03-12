@@ -23,4 +23,4 @@ MTÜ Ausad Valimised on 2012. aastal asutatud ühing, mille eesmärk tagada Eest
 
 * [Märt Põdra ja MTÜ Ausad Valimised valimiskaebus](https://p6drad-teel.net/~p6der/kaebus4/kaebus_riigikohus_10_03_2025.pdf) (10.03.2025)
 * [Vabariigi Valimiskomisjoni selgitus Riigikohtule](https://p6drad-teel.net/~p6der/kaebus4/kaebuse_edastamine_valimiskomisjon_11_03_2025.pdf) (11.03.2025)
-* [Märt Põdra arvamuslugu koosolekult eemaldamisest ajalehes Postimees](https://arvamus.postimees.ee/8206165/mart-poder-topeltpohjaga-valimiskasti-saladus) ([linkidega täisversioon blogis](https://gafgaf.infoaed.ee/posts/topeltp6hjaga-valimiskast/))
+* [Märt Põdra arvamuslugu koosolekult eemaldamisest Postimehes](https://arvamus.postimees.ee/8206165/mart-poder-topeltpohjaga-valimiskasti-saladus) ja [linkidega täisversioon blogis](https://gafgaf.infoaed.ee/posts/topeltp6hjaga-valimiskast/) (7.03.2025)
