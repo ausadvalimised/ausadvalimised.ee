@@ -10,7 +10,7 @@ nav_order: 94
 
 __The association representing election observers expects the Supreme Court to clearly stipulate how public accountability of the essential steps in ascertaining the election results is ensured in the case of electronic voting, as a result of the election complaint by Märt Põder, member of the board of Fair Elections Estonia.__
 
-On March 10, election observer Märt Põder, together with Fair Elections Estonia, filed an election complaint with the Supreme Court against the proceedings of the National Electoral Committee, which violated the rights of an election observer. The election complaint was sent to the National Electoral Committee, which forwarded it to the Supreme Court on March 11, along with their explanations.
+On March 10 election observer Märt Põder, together with Fair Elections Estonia, filed an election complaint with the Supreme Court against the proceedings of the National Electoral Committee, which violated the rights of an election observer. The election complaint was sent to the National Electoral Committee, which forwarded it to the Supreme Court on March 11, along with their explanations.
 
 The reason for the complaint is that the electoral committee restricted the agenda item on risk management and proceedings of electronic voting of its March 6 meeting, removing Põder from the meeting for the time of discussing the item. According to the Riigikogu Election Act, the meetings of the electoral committee are public and the law does not allow to declare them closed. As an election observer, Põder wanted to use his legal right to observe the activities and proceedings of the National Electoral Committee and to familiarize with the documents discussed at the meetings, but this was not allowed.
 
