@@ -24,4 +24,4 @@ Fair Elections Estonia is an organisation founded in 2012, ensure free and democ
 
 * [Election complaint by Märt Põder and Fair Elections Estonia](https://p6drad-teel.net/~p6der/kaebus4/kaebus_riigikohus_10_03_2025.pdf) (10.03.2025, in Estonian)
 * [Explanation for the Supreme Court by the National Electoral Committee](https://p6drad-teel.net/~p6der/kaebus4/kaebuse_edastamine_valimiskomisjon_11_03_2025.pdf) (11.03.2025, in Estonian)
-* [Opinion piece in newspaper Postimees](https://arvamus.postimees.ee/8206165/mart-poder-topeltpohjaga-valimiskasti-saladus) and [full version with references in blog](https://gafgaf.infoaed.ee/posts/topeltp6hjaga-valimiskast/) by Märt Põder (7.03.2025, in Estonian)
+* [Opinion piece in newspaper Postimees](https://arvamus.postimees.ee/8206165/mart-poder-topeltpohjaga-valimiskasti-saladus) and [full version with in blog](https://gafgaf.infoaed.ee/posts/topeltp6hjaga-valimiskast/) by Märt Põder (7.03.2025, in Estonian)
