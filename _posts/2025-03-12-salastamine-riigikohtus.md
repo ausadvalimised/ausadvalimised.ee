@@ -4,6 +4,7 @@ permalink: /salastamine-riigikohtus/
 layout: post
 author: MTÜ Ausad Valimised
 image: /media/eemaldamine.png
+lang: et
 nav_order: 94
 ---
 
