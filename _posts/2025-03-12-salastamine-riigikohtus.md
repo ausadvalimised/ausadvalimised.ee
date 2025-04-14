@@ -18,7 +18,7 @@ Kaebuse põhjus on, et valimiskomisjon kuulutas kinniseks oma 6. märtsi koosole
 
 > "Valimised on ühiskondlik baaskokkulepe võimu jagamiseks, mille puhul on oluline, et protseduurid oleksid kõigile ühtviisi mõistetavad ja läbipaistvad," ütles ühingu juhatuse liige Oudekki Loone. "Kui olulist teavet valimiste läbiviimise kohta tuleb kodanike, valijate ja vaatlejate eest salastada turvalisuse tagamiseks, siis on hoopis see ise turvarisk ja sellisel kujul polegi päriselt tegu valimistega demokraatlikus tähenduses."
 
-MTÜ Ausad Valimised on 2012. aastal asutatud ühing, mille eesmärk tagada Eesti Vabariigis vabad ja demokraatlikud valimised, mille tulemuste kujunemine on aus ning vaadeldav. Ühing toetab ja esindab valimisvaatlejaid nende ühiste huvide kaitsel ning vahendab kohalike ja rahvusvaheliste valimisvaatlejate kogemust, osaleb seadusloomes ning aitab kodanikühiskonna poolelt kaasa demokraatliku legitimatsiooni tagamisele.
+MTÜ Ausad Valimised on 2012. aastal asutatud ühing, mille eesmärk tagada Eesti Vabariigis vabad ja demokraatlikud valimised, mille tulemuste kujunemine on aus ning vaadeldav. Ühing toetab ja esindab valimisvaatlejaid nende ühiste huvide kaitsel ning vahendab kohalike ja rahvusvaheliste valimisvaatlejate kogemust, osaleb seadusloomes ning aitab kodanikuühiskonna poolelt kaasa demokraatliku legitimatsiooni tagamisele.
 
 ## Viited
 
