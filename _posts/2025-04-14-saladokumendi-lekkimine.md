@@ -8,8 +8,7 @@ lang: et
 nav_order: 93
 ---
 
-__Riigikohus kiitis 11. aprilli otsusega heaks vaatleja Märt Põdra eemaldamise valimiskomisjoni avalikult koosolekult 6. märtsil.__
-
+Riigikohus kiitis 11. aprilli otsusega heaks vaatleja Märt Põdra eemaldamise valimiskomisjoni avalikult koosolekult 6. märtsil.
 Otsus ei selgita, kas konkreetse päevakorrapunkti arutelult eemaldamine oli õiguspärane või mida tähendab koosolekult seadusega nõutud avalikkus. Kohtumenetluse käigus lekitas valimisteenistus e‑hääletuse riskikäsitlusplaani, millega tutvumine võivat ohustada e‑hääletust ja mille varjamiseks vaatleja koosolekult eemaldatigi.
 
 Otsus kitsendati elektrooniliselt koosolekult eemaldamisele, kuid juba nädal enne otsuse tegemist eemaldas valimiskomisjon oma 3. aprilli füüsiliselt koosolekult samamoodi vaatleja Sulev Švilponise. Riigikohus arutas valimiskaebust pretsedenditu viieliikmelise koosseisuga ja otsustamine läks kolm nädalat üle seaduses lubatud seitsme tööpäeva pikkuse tähtaja. Otsuse kunstlikku piiramist elektroonsete koosolekutega vastustas üks kohtunikest täiendava arvamuse ja teine eriarvamusega.
