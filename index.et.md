@@ -12,6 +12,6 @@ MTÜ [Ausad Valimised](https://ariregister.rik.ee/est/company/80339095/) eesmär
 
 Selle saavutamiseks koondame ja vahendame kohalike ning rahvusvaheliste valimisvaatlejate kogemust, toetame ja esindame valimisvaatlejaid nende ühiste huvide kaitsel ning kutsume liituma kõiki demokraatlike ja ausate valimiste tagamisest huvitatuid.
 
-Ühingu [põhikirjalist tegevust](/docs/p6hikiri/) saab toetada annetusega arveldusarvele `EE491010220211007222` (MTÜ Ausad Valimised, selgitusse märkida `Annetus`)).
+Ühingu [põhikirjalist tegevust](/docs/p6hikiri/) saab toetada annetusega arveldusarvele `EE491010220211007222` (MTÜ Ausad Valimised, selgitusse märkida `Annetus`).
 
 Alates veebruarist 2024 on ühingu juhatuses [Märt Põder](https://gafgaf.infoaed.ee/), [Oudekki Loone](https://et.wikipedia.org/wiki/Oudekki_Loone) ja [Heldur-Valdek Seeder](https://valdekseeder.blogspot.com/).
