@@ -16,7 +16,7 @@ Valimiskomisjoni 12.06.2025 koosolekul MTÜ esindajana osalenud ja sealt eemalda
 
 > "Valimisvaatlejate eemaldamine koosolekutelt näitab põhimõttelist väärarusaama valimistest," ütles juhatuseliige Oudekki Loone. "Ausa ja läbipaistva protsessi puhul tutvustavad valimiste korraldajad kõiki valimiste läbiviimise üksikasju viimseni, et vaatlejad saaks anda toimingute korrektsusele oma objektiivse hinnangu."
 
-MTÜ Ausad Valimised on 2012. aastal asutatud ühing, mille eesmärk on tagada Eesti Vabariigis vabad ja demokraatlikud valimised, mille tulemuste kujunemine on aus ning vaadeldav. Ühing toetab ja esindab valimisvaatlejaid nende ühiste huvide kaitsel ning vahendab kohalike ja rahvusvaheliste valimisvaatlejate kogemust, osaleb seadusloomes ning aitab kodanikuühiskonna poolelt kaasa demokraatliku legitimatsiooni tagamisele. Ühingu kohta leiab täpsemat teavet https://ausadvalimised.ee.
+MTÜ Ausad Valimised on 2012. aastal asutatud ühing, mille eesmärk on tagada Eesti Vabariigis vabad ja demokraatlikud valimised, mille tulemuste kujunemine on aus ning vaadeldav. Ühing toetab ja esindab valimisvaatlejaid nende ühiste huvide kaitsel ning vahendab kohalike ja rahvusvaheliste valimisvaatlejate kogemust, osaleb seadusloomes ning aitab kodanikuühiskonna poolelt kaasa demokraatliku legitimatsiooni tagamisele.
 
 ## Viited
 

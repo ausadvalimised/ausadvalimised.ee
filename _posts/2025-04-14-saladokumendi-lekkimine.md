@@ -17,7 +17,7 @@ Otsus kitsendati elektrooniliselt koosolekult eemaldamisele, kuid juba nädal en
 
 Riskikäsitlusplaan on 105 andmereaga tabel, mis hindab riske tõenäosuse ja mõju järgi 5-palli skaalal, mille korrutis moodustab riskiklassi. Tabel vaatleb riske prooviläbimisel ja sellele eelneval perioodil, elektroonilise hääletuse ajal, pärast e-hääletuse lõppu, töötlemisetapis ja täiendavalt m-hääletamisel, sj riskidest 36 on arvestatud keskmiseks, 37 väikseks ja 32 väga väikeseks, ühtegi kõrget ega väga kõrget riski pole. Faili metaandmete järgi on selle loonud 30. juunil 2021 valimisteenistuse juht Arne Koitmäe, faili on digiallkirjastanud ja kuulutanud AvTS § 35 lõike 1 punkti 9 alusel asutusesiseseks kasutamiseks Nellika Valder 6. märtsil 2025 kell 14:39.
 
-MTÜ Ausad Valimised on 2012. aastal asutatud ühing, mille eesmärk on tagada Eesti Vabariigis vabad ja demokraatlikud valimised, mille tulemuste kujunemine on aus ning vaadeldav. Ühing toetab ja esindab valimisvaatlejaid nende ühiste huvide kaitsel ning vahendab kohalike ja rahvusvaheliste valimisvaatlejate kogemust, osaleb seadusloomes ning aitab kodanikuühiskonna poolelt kaasa demokraatliku legitimatsiooni tagamisele. Ühingu kohta leiab täpsemat teavet https://ausadvalimised.ee.
+MTÜ Ausad Valimised on 2012. aastal asutatud ühing, mille eesmärk on tagada Eesti Vabariigis vabad ja demokraatlikud valimised, mille tulemuste kujunemine on aus ning vaadeldav. Ühing toetab ja esindab valimisvaatlejaid nende ühiste huvide kaitsel ning vahendab kohalike ja rahvusvaheliste valimisvaatlejate kogemust, osaleb seadusloomes ning aitab kodanikuühiskonna poolelt kaasa demokraatliku legitimatsiooni tagamisele.
 
 ## Viited
 
