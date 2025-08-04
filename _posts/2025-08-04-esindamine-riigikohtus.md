@@ -22,4 +22,4 @@ MTÜ Ausad Valimised on 2012. aastal asutatud ühing, mille eesmärk on tagada E
 
 * [Juhatuseliikme Märt Põdra avaldus MTÜ kaasamiseks kaasuse 5-25-7 menetlusosalisena](https://p6drad-teel.net/~p6der/kaebus5/valimiskaebus_2025_4_avaldus.pdf) (3.08.2025)  
 * [Riigikohtu määrus kaebuste ühendamiseks kaasuses 5-25-7 ja uute menetlusosaliste kaasamiseks](https://www.riigikohus.ee/et/lahendid/?asjaNr=5-25-7/4) (27.06.2025)  
-* [Ausal valimisametnikul pole midagi varjata](https://www.err.ee/1609753635/mart-poder-ausal-valimisametnikul-pole-midagi-varjata) (25.07.2025)  
+* [Juhatuseliikme Märt Põdra arvamusartikkel "Ausal valimisametnikul pole midagi varjata"](https://www.err.ee/1609753635/mart-poder-ausal-valimisametnikul-pole-midagi-varjata) (25.07.2025)  
