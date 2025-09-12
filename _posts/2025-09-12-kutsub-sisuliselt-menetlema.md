@@ -8,7 +8,7 @@ lang: et
 nav_order: 91
 ---
 
-__Valimisvaatlejate esindusühing MTÜ Ausad Valimised tunnustab Riigikohtu 11. septembri 2025 lahendit, millega tunnistati Vabariigi Valimiskomisjoni augustilõpu koosolek õigustühiseks, kuid rõhutab kriitilise pilgu ja valimiskaebuste sisulise menetluse vajadust ka edaspidi.__
+__Valimisvaatlejate esindusühing tunnustab Riigikohtu 11. septembri 2025 lahendit, millega tunnistati Vabariigi Valimiskomisjoni augustilõpu koosolek õigustühiseks, kuid rõhutab kriitilise pilgu ja valimiskaebuste sisulise menetluse vajadust ka edaspidi.__
 
 MTÜ Ausad Valimised ja valimisvaatleja Sulev Švilponis osutasid oma 28. augusti ja 1. septembri kaebustes Riigikohtule, et valimiskomisjoni poolt augusti lõpus 25. ja 26. augustil e-posti teel peetud koosolek polnud avalikkusele ja valimisvaatlejatele jälgitav. 
 
