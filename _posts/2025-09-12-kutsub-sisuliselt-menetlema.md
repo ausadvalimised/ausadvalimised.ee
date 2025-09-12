@@ -12,7 +12,7 @@ __Valimisvaatlejate esindusühing tunnustab Riigikohtu 11. septembri 2025 lahend
 
 MTÜ Ausad Valimised ja valimisvaatleja Sulev Švilponis osutasid oma 28. augusti ja 1. septembri kaebustes Riigikohtule, et valimiskomisjoni poolt augusti lõpus 25. ja 26. augustil e-posti teel peetud koosolek polnud avalikkusele ja valimisvaatlejatele jälgitav. 
 
-Kuna valimiskomisjoni koosolekud peavad olema avalikud ja valimistoimingud vaadeldavad, siis taotleti avalikkuse eest varjatult läbiviidud koosoleku tunnistamist õigusvastaseks, mida Riigikohus oma 11. septemberi lahendis ka tegi. Seejuures jättis Riigikohus tähelepanuta eksitava teavituse 2. septemberi koosoleku kohta, millel osalemiseks tegi Vabariigi Valimiskomisjon vaatlejatele takistusi valeväitega, et koosolek toimub üksnes füüsiliselt.
+Kuna valimiskomisjoni koosolekud peavad olema avalikud ja valimistoimingud vaadeldavad, siis taotleti avalikkuse eest varjatult läbiviidud koosoleku tunnistamist õigusvastaseks, mida Riigikohus oma 11. septemberi lahendis ka tegi. Seejuures jättis Riigikohus tähelepanuta eksitava teavituse 2. septembri koosoleku kohta, millel osalemiseks tegi Vabariigi Valimiskomisjon vaatlejatele takistusi valeväitega, et koosolek toimub üksnes füüsiliselt.
 
 > "Valimiskomisjoni otsuste õiguspärasuseks ei piisa vaid otsuste ja protokollide avaldamisest pärast koosoleku toimumist," ütles valimisvaatleja Sulev Švilponis. "Olulisuse tõttu demokraatlike valimiste jaoks peavad olema läbipaistvad ja vaatlejate jaoks jälgitavad ka nende otsusteni jõudmise asjaolud avalikel koosolekutel."
 
