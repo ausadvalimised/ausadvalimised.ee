@@ -1,5 +1,5 @@
 ---
-title: "Valimiskomimisjoni koosoleku õigustühiseks tunnistamine oli ainuõige samm"
+title: "Valimiskomisjoni koosoleku õigustühiseks tunnistamine oli ainuõige samm"
 permalink: /kutsub-sisuliselt-menetlema/
 layout: post
 author: MTÜ Ausad Valimised
