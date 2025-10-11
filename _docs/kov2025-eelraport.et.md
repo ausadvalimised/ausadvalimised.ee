@@ -103,7 +103,7 @@ Kuigi vaatluse põhjal pole võimalik anda audiitori käitumisele ammendavat hin
 
 Valimisteenistus pole 10. oktoobri seisuga avaldanud audiitori 29. septembri võtmeloome ja 30. septembri proovihääletuse vahearuannet, mille avalikustamine on hädavajalik selle hindamiseks, kas ettevalmistavad toimingud läbiti viisil, mis võiks lubada minna edasi elektroonilise hääletuse valijatele avamisega 13. oktoobril.
 
-## 5. Häälte avamise võti kompromiteeriti
+### 5. Häälte avamise võti kompromiteeriti
 
 Kriitilise tähtsusega võtmeloome protseduuride turvamudeli ja auditeerimise ebapiisavust ning audiitori ambivalentset rolli protseduuride juures joonib alla häälte avamise ja valimistulemuse allkirjastamise võtme kompromiteerimine 30. septembril toime pandud proovihääletuse käigus. Kui kompromiteeritud võtit kasutatakse 13. oktoobril valijatele avatava elektroonilise hääletuse läbiviimiseks, siis infoturvapoliitika punktist 2.7 lähtuvalt ei ole hääletamise salajasus selle hääletuskanali kasutamisel tagatud.
 
