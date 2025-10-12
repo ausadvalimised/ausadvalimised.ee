@@ -8,3 +8,4 @@ gem "just-the-docs", "0.8.0" # pinned to the current release
 
 gem "jekyll-sitemap"
 gem "jekyll-polyglot"
+gem "jekyll-redirect-from"

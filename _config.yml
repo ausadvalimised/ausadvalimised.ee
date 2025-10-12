@@ -23,6 +23,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-polyglot
+  - jekyll-redirect-from
 
 sass:
     sourcemap: never
