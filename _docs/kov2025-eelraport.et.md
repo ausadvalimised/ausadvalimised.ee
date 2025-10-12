@@ -11,7 +11,7 @@ last_modified_at: 2025-11-10
 nav_order: 99
 ---
 
-# Vaatlusraport: hääle salajasus KOV valimistel ei ole tagatud
+# Vaatlejate eelraport: hääle salajasus KOV valimistel pole tagatud
 
 _Raport on koostatud MTÜ Ausad Valimised poolt lähtuvalt 2025. aasta KOV valimiste elektroonilise hääletuse ettevalmistavate toimingute vaatlemisel osalenud või osaleda soovinud, aga lõpuks osaleda mitte saanud vaatlejate sisendist. Raporti tähelepanekuid on tutvustatud Vabariigi Valimiskomisjonile nende 9. oktoobri koosolekul. Tegu on toimetamata eelraportiga enne elektroonilise hääletuse avamist valijatele 13. oktoobril ning selle järeldused ei pruugi olla lõplikud._
 
