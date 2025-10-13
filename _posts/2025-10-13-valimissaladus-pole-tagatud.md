@@ -22,4 +22,4 @@ MTÜ Ausad Valimised on 2012. aastal asutatud ühing, mille eesmärk on tagada E
 
 * [Vaatlejate eelraport: hääle salajasus KOV valimistel pole tagatud](https://ausadvalimised.ee/docs/kov2025-eelraport/) (11.10.2025)  
 * [Märt Põder: häälte avamise võtme kompromiteerimise tõttu pole valimissaladus tagatud](https://gafgaf.infoaed.ee/posts/salajasus-pole-tagatud/) (12.10.2025)  
-* [Ago Samposon: valimised jälle ees, aga kahjuks ei ole nende usaldusväärsuses olulisi paranemisi](https://www.facebook.com/ago.samoson.1/posts/pfbid02mZSx3nmpppfNt6sVjAv6r4RFyEEADRFw3CiXLHi5BqBhYm66hkcp1xCfmN1xGu13l) (6.10.2025)  
+* [Ago Samoson: valimised jälle ees, aga kahjuks ei ole nende usaldusväärsuses olulisi paranemisi](https://www.facebook.com/ago.samoson.1/posts/pfbid02mZSx3nmpppfNt6sVjAv6r4RFyEEADRFw3CiXLHi5BqBhYm66hkcp1xCfmN1xGu13l) (6.10.2025)  
