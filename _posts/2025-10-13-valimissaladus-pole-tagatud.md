@@ -8,7 +8,7 @@ lang: et
 nav_order: 91
 ---
 
-__Pärast vaatlejate avalduste ja kaebuste arutelu 9. oktoobril valimiskomisjonis avaldas MTÜ Ausad Valimised 11. oktoobril viiest tähelepanekust koosneva aruande elektroonilise hääletuse ettevalmistevate toimingute kohta. Aruande kohaselt pole häälte avamise võtme kompromiteerimise tõttu algava elektroonilise hääletuse puhul tagatud valimissaladus.__
+__Pärast vaatlejate avalduste ja kaebuste arutelu 9. oktoobril valimiskomisjonis avaldas MTÜ Ausad Valimised 11. oktoobril viiest tähelepanekust koosneva aruande elektroonilise hääletuse ettevalmistavate toimingute kohta. Aruande kohaselt pole häälte avamise võtme kompromiteerimise tõttu algava elektroonilise hääletuse puhul tagatud valimissaladus.__
 
 Valimisvaatlejad rõhutavad aruandes, et vaatlejate kohalolust ettevalmistavatel toimingutel ei tohi järeldada nende heakskiitmist ja toimingud polnud avalikult vaadeldavad nende piiratud ligipääsetavuse ning alles viimasel hetkel osaliselt avaldatud dokumentatsiooni ja avaldamata jäetud lähtekoodi tõttu. Vaatlejate hinnangul viidi sarnaselt varasemate aastatega puudulikult läbi valimiste krüptovõtmete loomine, mida joonib alla audiitori lubamatu sekkumine võtmete kasutamise turvaprotokolli proovihääletusel ja selle tagajärjena aset leidnud häälte avamise võtme kompromiteerimine.
 
