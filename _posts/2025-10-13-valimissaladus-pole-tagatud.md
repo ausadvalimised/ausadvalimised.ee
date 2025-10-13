@@ -3,7 +3,7 @@ title: "Vaatlejate eelraport: valimissaladus algavatel KOV valimistel pole tagat
 permalink: /valimissaladus-pole-tagatud/
 layout: post
 author: MTÜ Ausad Valimised
-image: /media/VVK-kettad2.jpeg
+image: /media/kiipkaart2025.jpg
 lang: et
 nav_order: 91
 ---
