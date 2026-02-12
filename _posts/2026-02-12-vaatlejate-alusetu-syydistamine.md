@@ -20,8 +20,8 @@ MTÜ Ausad Valimised on 2012. aastal asutatud ühing, mille eesmärk on tagada E
 
 ## Viited
 
-* [RVT juhi Arne Koitmäe 26.01 töökoosolekul esitatud süüdistused videos, al ~4:00](https://www.facebook.com/reel/2680010152354187) (28.01.2026)  
+* [RVT juhi Arne Koitmäe 26.01 erikomisjoni süüdistused videos, alates ~4:00](https://www.facebook.com/reel/2680010152354187) (28.01.2026)  
 * [VVK 4.02 otsuse nr 93 vaidlustamine Riigikohtus](https://p6drad-teel.net/~p6der/k6/valimiskaebus_2026_1_riigikohus.pdf) (9.02.2026)  
 * [Riigikogu erikomisjoni 26.01 istungi/töökoosoleku video esimene pool](https://fb.watch/Fa1TnR1VFx/) (26.01.2026)  
 * [Valija Hääle väitekontroll: peaministri sõnavõtt Riigikogu infotunnis](https://ausadvalimised.ee/media/Valija%20H%C3%A4%C3%A4le%20v%C3%A4itekontroll.pdf) (2.02.2026)  
-* [Puuduse avaldus RVT 27.01 teate kohta erikomisjoni koosolekul arutatust](https://p6drad-teel.net/~p6der/k6/puuduse_avaldus_2026_1.pdf) (30.01.2026)  
+* [Puuduse avaldus RVT 27.01 teate kohta erikomisjoni koosolekul arutatust](https://p6drad-teel.net/~p6der/k6/RE%20PUUDUSE%20AVALDUS%2027.01%20avaldatud%20teavituses%20avalduvad%20puudused%20valimiste%20korralduses.pdf) (30.01.2026)  
