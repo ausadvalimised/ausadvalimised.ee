@@ -10,9 +10,7 @@ nav_order: 89
 
 __Eile Riigikogu juhatusele üle antud pöördumises kutsuvad 23 Riigikogu liiget tagama valimiste järelevalvet puudutavate arutelude läbipaistvust. Saadikud leiavad, et Riigikogu allasutuses toimuvad Vabariigi Valimiskomisjoni avalikud koosolekud peaks olema Riigikogu liikmetele ja avalikkusele ligipääsetavad järelvaadatavate veebiülekannetena.__
 
-Rahvasaadikud väljendasid pöördumises seisukohta, et valimiskomisjoni seaduse järgi avalike koosolekute läbiviimisel peaks järgima Riigikogus väljakujunenud läbipaistvuse standardit, et nii seadusandja, ajakirjandus kui ka laiem avalikkus saaks demokraatliku riigikorralduse jaoks olulisi arutelusid jälgida.
-
-Pöördumise andis 9. aprilli täiskogu istungi alguses üle Varro Vooglaid ja see tõukus MTÜ Ausad Valimised poolt 25. märtsil kõigile Riigikogu liikmetele saadetud abipalvest, mis juhtis probleemile tähelepanu.
+Rahvasaadikud väljendasid pöördumises seisukohta, et valimiskomisjoni seaduse järgi avalike koosolekute läbiviimisel peaks järgima Riigikogus väljakujunenud läbipaistvuse standardit, et nii seadusandja, ajakirjandus kui ka laiem avalikkus saaks demokraatliku riigikorralduse jaoks olulisi arutelusid jälgida. Pöördumise andis 9. aprilli täiskogu istungi alguses üle Varro Vooglaid ja see tõukus MTÜ Ausad Valimised poolt 25. märtsil kõigile Riigikogu liikmetele saadetud abipalvest, mis juhtis probleemile tähelepanu.
 
 > "Seaduse järgi avalikud koosolekud peaksid olema avalikud ka tegelikult," ütles endine Riigikogu liige emeriitkungingriiklane Kalle Kulbok. "Kui videoülekannete tegemine tehniliselt koormavaks osutub, piisab koosoleku avalikkuse tagamiseks kuulatavate audioülekannete korraldamisest ning see ei tohiks valimisteenistusele üle jõu käia."
 
