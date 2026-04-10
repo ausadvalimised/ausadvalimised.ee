@@ -20,7 +20,7 @@ MTÜ Ausad Valimised on 2012. aastal asutatud ühing, mille eesmärk on tagada E
 
 ## Viited
 
-* [Kutsume tagama Riigikogu liikmete ligipääsu
+* [Kutsume tagama ligipääsu
 valimiste korraldust puudutavatele aruteludele](https://ausadvalimised.ee/media/Po%CC%88o%CC%88rdumine%20Riigikogu%20juhatuse%20poole%20VVK%20istungite%20teemal%2020260326.pdf) (26.03.2026)  
 * [Pöördumise üleandmine Riigikogu 9. aprilli istungi alguses](https://stenogrammid.riigikogu.ee/et/202604091000#SND-41895069) (9.04.2026)  
 * [MTÜ Ausad Valimised abipalve 101 Riigikogu liikmele](https://p6drad-teel.net/~p6der/k6/Valimiskomisjoni%20avalike%20koosolekute%20ligip%c3%a4%c3%a4setavus%20avalikkuse%20jaoks.pdf) (25.03.2026)  
